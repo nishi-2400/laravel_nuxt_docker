@@ -20,3 +20,6 @@ nginx : 1.18
 □ DB
 mysql :
 
+□ Tool
+Postman 
+Figma
