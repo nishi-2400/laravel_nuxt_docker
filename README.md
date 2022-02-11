@@ -1,6 +1,7 @@
-開発環境構成
+□ Front Image
+![image](https://user-images.githubusercontent.com/55306345/153545277-238bc324-049d-40ef-9025-f9b0b059d3d9.png)
 
-□ 仮想環境
+□ Virtual Envrionment
 docker : 20.10.11
 docker-compose : 1.29.2
 
@@ -18,3 +19,4 @@ nginx : 1.18
 
 □ DB
 mysql :
+
