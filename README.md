@@ -18,8 +18,9 @@ npm : 6.14.6<br>
 nginx : 1.18<br>
 
 □ DB<br>
-mysql :<br>
+mysql : 8.0.28<br>
 
-□ Tool<br>
+□ Tools<br>
+Redmine<br>
 Postman<br>
 Figma<br>
