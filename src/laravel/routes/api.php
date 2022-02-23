@@ -14,10 +14,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Admin
+Route::resource('admins', 'Admin\AdminController');
+
 Route::get('/test', function () {
     return 'Hello';
 });
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
-});
+// Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+//     return $request->user();
+// });
